@@ -1,0 +1,462 @@
+[
+    {
+        "ID": 1,
+        "FilePath": "assets/1.jpg",
+        "PPSF": 836.5861845861084
+    },
+    {
+        "ID": 3,
+        "FilePath": "assets/3.jpg",
+        "PPSF": 582.8790777777779
+    },
+    {
+        "ID": 4,
+        "FilePath": "assets/4.jpg",
+        "PPSF": 461.4158881578947
+    },
+    {
+        "ID": 5,
+        "FilePath": "assets/5.jpg",
+        "PPSF": 713.9980200501253
+    },
+    {
+        "ID": 6,
+        "FilePath": "assets/6.jpg",
+        "PPSF": 662.9161431316041
+    },
+    {
+        "ID": 7,
+        "FilePath": "assets/7.jpg",
+        "PPSF": 603.7347904509285
+    },
+    {
+        "ID": 8,
+        "FilePath": "assets/8.jpg",
+        "PPSF": 513.3374989049496
+    },
+    {
+        "ID": 9,
+        "FilePath": "assets/9.jpg",
+        "PPSF": 408.0704245810056
+    },
+    {
+        "ID": 10,
+        "FilePath": "assets/10.jpg",
+        "PPSF": 433.4383148831488
+    },
+    {
+        "ID": 11,
+        "FilePath": "assets/11.jpg",
+        "PPSF": 417.3304661280298
+    },
+    {
+        "ID": 12,
+        "FilePath": "assets/12.jpg",
+        "PPSF": 425.59460296965784
+    },
+    {
+        "ID": 13,
+        "FilePath": "assets/13.jpg",
+        "PPSF": 379.8982164821648
+    },
+    {
+        "ID": 14,
+        "FilePath": "assets/14.jpg",
+        "PPSF": 478.6214138153647
+    },
+    {
+        "ID": 15,
+        "FilePath": "assets/15.jpg",
+        "PPSF": 403.05358548585485
+    },
+    {
+        "ID": 16,
+        "FilePath": "assets/16.jpg",
+        "PPSF": 407.475147601476
+    },
+    {
+        "ID": 17,
+        "FilePath": "assets/17.jpg",
+        "PPSF": 360.64171028606205
+    },
+    {
+        "ID": 18,
+        "FilePath": "assets/18.jpg",
+        "PPSF": 368.0306967984934
+    },
+    {
+        "ID": 19,
+        "FilePath": "assets/19.jpg",
+        "PPSF": 485.90105864811136
+    },
+    {
+        "ID": 21,
+        "FilePath": "assets/21.jpg",
+        "PPSF": 414.4783312101911
+    },
+    {
+        "ID": 23,
+        "FilePath": "assets/23.jpg",
+        "PPSF": 791.7624140127389
+    },
+    {
+        "ID": 24,
+        "FilePath": "assets/24.jpg",
+        "PPSF": 450.53506369426754
+    },
+    {
+        "ID": 25,
+        "FilePath": "assets/25.jpg",
+        "PPSF": 411.45511205330104
+    },
+    {
+        "ID": 26,
+        "FilePath": "assets/26.jpg",
+        "PPSF": 461.966444579043
+    },
+    {
+        "ID": 27,
+        "FilePath": "assets/27.jpg",
+        "PPSF": 436.6881100795756
+    },
+    {
+        "ID": 28,
+        "FilePath": "assets/28.jpg",
+        "PPSF": 403.9207813446396
+    },
+    {
+        "ID": 29,
+        "FilePath": "assets/29.jpg",
+        "PPSF": 471.48537798408483
+    },
+    {
+        "ID": 30,
+        "FilePath": "assets/30.jpg",
+        "PPSF": 471.48537798408483
+    },
+    {
+        "ID": 31,
+        "FilePath": "assets/31.jpg",
+        "PPSF": 417.13564711830134
+    },
+    {
+        "ID": 33,
+        "FilePath": "assets/33.jpg",
+        "PPSF": 420.7403087100331
+    },
+    {
+        "ID": 34,
+        "FilePath": "assets/34.jpg",
+        "PPSF": 362.0101084277969
+    },
+    {
+        "ID": 35,
+        "FilePath": "assets/35.jpg",
+        "PPSF": 353.69348768472906
+    },
+    {
+        "ID": 36,
+        "FilePath": "assets/36.jpg",
+        "PPSF": 434.7396816976127
+    },
+    {
+        "ID": 37,
+        "FilePath": "assets/37.jpg",
+        "PPSF": 498.84653846153844
+    },
+    {
+        "ID": 38,
+        "FilePath": "assets/38.jpg",
+        "PPSF": 458.89798408488065
+    },
+    {
+        "ID": 40,
+        "FilePath": "assets/40.jpg",
+        "PPSF": 509.7460616784631
+    },
+    {
+        "ID": 41,
+        "FilePath": "assets/41.jpg",
+        "PPSF": 410.6904586063133
+    },
+    {
+        "ID": 42,
+        "FilePath": "assets/42.jpg",
+        "PPSF": 504.3304774535809
+    },
+    {
+        "ID": 43,
+        "FilePath": "assets/43.jpg",
+        "PPSF": 425.0291024863554
+    },
+    {
+        "ID": 44,
+        "FilePath": "assets/44.jpg",
+        "PPSF": 430.5420121334681
+    },
+    {
+        "ID": 45,
+        "FilePath": "assets/45.jpg",
+        "PPSF": 492.0186171916711
+    },
+    {
+        "ID": 48,
+        "FilePath": "assets/48.jpg",
+        "PPSF": 420.10900771775084
+    },
+    {
+        "ID": 49,
+        "FilePath": "assets/49.jpg",
+        "PPSF": 417.648802318094
+    },
+    {
+        "ID": 50,
+        "FilePath": "assets/50.jpg",
+        "PPSF": 406.6883301220295
+    },
+    {
+        "ID": 51,
+        "FilePath": "assets/51.jpg",
+        "PPSF": 429.5899241658241
+    },
+    {
+        "ID": 52,
+        "FilePath": "assets/52.jpg",
+        "PPSF": 421.3040112130479
+    },
+    {
+        "ID": 53,
+        "FilePath": "assets/53.jpg",
+        "PPSF": 392.30965430546826
+    },
+    {
+        "ID": 54,
+        "FilePath": "assets/54.jpg",
+        "PPSF": 387.53681332495285
+    },
+    {
+        "ID": 55,
+        "FilePath": "assets/55.jpg",
+        "PPSF": 416.6893233082707
+    },
+    {
+        "ID": 56,
+        "FilePath": "assets/56.jpg",
+        "PPSF": 428.1393110109465
+    },
+    {
+        "ID": 57,
+        "FilePath": "assets/57.jpg",
+        "PPSF": 426.32837485172007
+    },
+    {
+        "ID": 58,
+        "FilePath": "assets/58.jpg",
+        "PPSF": 395.40183508989463
+    },
+    {
+        "ID": 59,
+        "FilePath": "assets/59.jpg",
+        "PPSF": 414.9417141162515
+    },
+    {
+        "ID": 60,
+        "FilePath": "assets/60.jpg",
+        "PPSF": 463.36130590339894
+    },
+    {
+        "ID": 61,
+        "FilePath": "assets/61.jpg",
+        "PPSF": 421.8199807321772
+    },
+    {
+        "ID": 62,
+        "FilePath": "assets/62.jpg",
+        "PPSF": 427.9098905344495
+    },
+    {
+        "ID": 64,
+        "FilePath": "assets/64.jpg",
+        "PPSF": 383.0867001885606
+    },
+    {
+        "ID": 65,
+        "FilePath": "assets/65.jpg",
+        "PPSF": 440.6136143931257
+    },
+    {
+        "ID": 67,
+        "FilePath": "assets/67.jpg",
+        "PPSF": 402.8395724907063
+    },
+    {
+        "ID": 68,
+        "FilePath": "assets/68.jpg",
+        "PPSF": 493.02789571005917
+    },
+    {
+        "ID": 69,
+        "FilePath": "assets/69.jpg",
+        "PPSF": 445.94693991416307
+    },
+    {
+        "ID": 71,
+        "FilePath": "assets/71.jpg",
+        "PPSF": 411.3319880597015
+    },
+    {
+        "ID": 72,
+        "FilePath": "assets/72.jpg",
+        "PPSF": 394.87902282036276
+    },
+    {
+        "ID": 73,
+        "FilePath": "assets/73.jpg",
+        "PPSF": 409.67788849347573
+    },
+    {
+        "ID": 74,
+        "FilePath": "assets/74.jpg",
+        "PPSF": 513.0528121137206
+    },
+    {
+        "ID": 75,
+        "FilePath": "assets/75.jpg",
+        "PPSF": 431.5285166872682
+    },
+    {
+        "ID": 76,
+        "FilePath": "assets/76.jpg",
+        "PPSF": 432.58777370030583
+    },
+    {
+        "ID": 77,
+        "FilePath": "assets/77.jpg",
+        "PPSF": 417.4006544342507
+    },
+    {
+        "ID": 78,
+        "FilePath": "assets/78.jpg",
+        "PPSF": 472.8039025974026
+    },
+    {
+        "ID": 80,
+        "FilePath": "assets/80.jpg",
+        "PPSF": 438.7826298701299
+    },
+    {
+        "ID": 81,
+        "FilePath": "assets/81.jpg",
+        "PPSF": 510.71393680052665
+    },
+    {
+        "ID": 82,
+        "FilePath": "assets/82.jpg",
+        "PPSF": 364.21187364777154
+    },
+    {
+        "ID": 83,
+        "FilePath": "assets/83.jpg",
+        "PPSF": 408.40819558632626
+    },
+    {
+        "ID": 84,
+        "FilePath": "assets/84.jpg",
+        "PPSF": 389.469035049762
+    },
+    {
+        "ID": 85,
+        "FilePath": "assets/85.jpg",
+        "PPSF": 557.814590058102
+    },
+    {
+        "ID": 87,
+        "FilePath": "assets/87.jpg",
+        "PPSF": 377.2699170750094
+    },
+    {
+        "ID": 88,
+        "FilePath": "assets/88.jpg",
+        "PPSF": 594.915928853755
+    },
+    {
+        "ID": 90,
+        "FilePath": "assets/90.jpg",
+        "PPSF": 548.1078920664206
+    },
+    {
+        "ID": 92,
+        "FilePath": "assets/92.jpg",
+        "PPSF": 392.68911161731205
+    },
+    {
+        "ID": 93,
+        "FilePath": "assets/93.jpg",
+        "PPSF": 638.0288408521303
+    },
+    {
+        "ID": 94,
+        "FilePath": "assets/94.jpg",
+        "PPSF": 557.0625442568958
+    },
+    {
+        "ID": 95,
+        "FilePath": "assets/95.jpg",
+        "PPSF": 508.83945023148146
+    },
+    {
+        "ID": 96,
+        "FilePath": "assets/96.jpg",
+        "PPSF": 589.857778952935
+    },
+    {
+        "ID": 97,
+        "FilePath": "assets/97.jpg",
+        "PPSF": 705.2902437785677
+    },
+    {
+        "ID": 99,
+        "FilePath": "assets/99.jpg",
+        "PPSF": 615.2794853556485
+    },
+    {
+        "ID": 100,
+        "FilePath": "assets/100.jpg",
+        "PPSF": 618.1975634743875
+    },
+    {
+        "ID": 101,
+        "FilePath": "assets/101.jpg",
+        "PPSF": 377.2699170750094
+    },
+    {
+        "ID": 102,
+        "FilePath": "assets/102.jpg",
+        "PPSF": 492.08242721733245
+    },
+    {
+        "ID": 103,
+        "FilePath": "assets/103.jpg",
+        "PPSF": 749.6835037593985
+    },
+    {
+        "ID": 105,
+        "FilePath": "assets/105.jpg",
+        "PPSF": 481.35683144729006
+    },
+    {
+        "ID": 106,
+        "FilePath": "assets/106.jpg",
+        "PPSF": 596.0542370441459
+    },
+    {
+        "ID": 107,
+        "FilePath": "assets/107.jpg",
+        "PPSF": 433.8077407631738
+    },
+    {
+        "ID": 109,
+        "FilePath": "assets/109.jpg",
+        "PPSF": 432.58777370030583
+    }
+]
